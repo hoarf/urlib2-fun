@@ -1,0 +1,1084 @@
+<html>
+ <link href="../EPTC_Consultas/css/estilos.css" rel="stylesheet" type="text/css">
+  <body>
+   <font align="left" color="#5F5B5B" face="verdana" size="2">
+    As informaes abaixo relacionadas correspondem a consulta realizada em 22/2/2014
+   </font>
+   <p>
+    <title>
+     Tabela Horria
+    </title>
+    <font face="verdana" size="2">
+     <b>
+      Veja tambm
+      <br>
+       Linhas relacionadas:
+       <a horria="" href="Cadastro.asp?Linha=620-5&amp;Tipo=TH&amp;Veiculo=1&amp;Sentido=0&amp;Logradouro=1&amp;Action=Tabela">
+        520 - TRIANGULO/24 DE OUTUBRO
+       </a>
+       ,
+       <a horria="" href="Cadastro.asp?Linha=620-22&amp;Tipo=TH&amp;Veiculo=1&amp;Sentido=0&amp;Logradouro=1&amp;Action=Tabela">
+        5202 - TRIANGULO/24 DE OUTUBRO/IPA
+       </a>
+       ,
+       <a horria="" href="Cadastro.asp?Linha=620-0&amp;Tipo=TH&amp;Veiculo=1&amp;Sentido=0&amp;Logradouro=1&amp;Action=Tabela">
+        620 - IGUATEMI / V. JARDIM
+       </a>
+       ,
+       <a horria="" href="Cadastro.asp?Linha=620-1&amp;Tipo=TH&amp;Veiculo=1&amp;Sentido=0&amp;Logradouro=1&amp;Action=Tabela">
+        6201 - IGUATEMI / ELIZABETH
+       </a>
+       ,
+       <a horria="" href="Cadastro.asp?Linha=620-97&amp;Tipo=TH&amp;Veiculo=1&amp;Sentido=0&amp;Logradouro=1&amp;Action=Tabela">
+        6204 - IGUATEMI/PARQUE DOS MAIAS
+       </a>
+      </br>
+     </b>
+    </font>
+   </p>
+   <p>
+   </p>
+  </body>
+ </link>
+</html>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="65%">
+ <tr align="center">
+  <td>
+   <font face="verdana" size="3">
+    <b>
+     Tabela horria vigente: OFICIAL
+    </b>
+   </font>
+  </td>
+ </tr>
+ <tr align="center">
+  <td>
+   <font face="verdana" size="2">
+   </font>
+  </td>
+ </tr>
+</table>
+<br>
+ <font face="verdana" size="3">
+  <div align="center">
+   <b>
+    5201  - TRIANGULO/24 DE OUTUBRO/PUC
+   </b>
+  </div>
+ </font>
+</br>
+<font face="verdana" size="3">
+ <div align="center">
+  <b>
+   Consrcio:Conorte
+   <br>
+    <br/>
+   </br>
+  </b>
+ </div>
+</font>
+<font face="verdana" size="2">
+ <div align="center">
+  <b>
+   BAIR/CENT/BAIR
+  </b>
+ </div>
+</font>
+<table align="center" border="1" bordercolor="#0B309B" cellpadding="0" cellspacing="0" width="65%">
+ <tr bgcolor="#0F81FD">
+  <th colspan="7">
+   <font color="#FFFFFF" face="verdana" size="1">
+    <div align="center">
+     <b>
+      Dias teis
+     </b>
+    </div>
+   </font>
+  </th>
+ </tr>
+ <tr>
+  <td bgcolor="#FFFFFF" width="75">
+   <font color="#5F5B5B" face="verdana" size="1">
+    <div align="center">
+     <b>
+      05:45
+     </b>
+    </div>
+   </font>
+  </td>
+  <td bgcolor="#D6F2FF" width="75">
+   <font color="#5F5B5B" face="verdana" size="1">
+    <div align="center">
+     <b>
+      06:10
+      <img alt="Em veculo adaptado para portador de deficincia" border="0" src="imagens/APD.gif"/>
+     </b>
+    </div>
+   </font>
+  </td>
+  <td bgcolor="#FFFFFF" width="75">
+   <font color="#5F5B5B" face="verdana" size="1">
+    <div align="center">
+     <b>
+      06:30
+     </b>
+    </div>
+   </font>
+  </td>
+  <td bgcolor="#FFFFFF" width="75">
+   <font color="#5F5B5B" face="verdana" size="1">
+    <div align="center">
+     <b>
+      06:50
+     </b>
+    </div>
+   </font>
+  </td>
+  <td bgcolor="#FFFFFF" width="75">
+   <font color="#5F5B5B" face="verdana" size="1">
+    <div align="center">
+     <b>
+      07:06
+     </b>
+    </div>
+   </font>
+  </td>
+  <td bgcolor="#D6F2FF" width="75">
+   <font color="#5F5B5B" face="verdana" size="1">
+    <div align="center">
+     <b>
+      07:22
+      <img alt="Em veculo adaptado para portador de deficincia" border="0" src="imagens/APD.gif"/>
+     </b>
+    </div>
+   </font>
+  </td>
+  <td bgcolor="#FFFFFF" width="75">
+   <font color="#5F5B5B" face="verdana" size="1">
+    <div align="center">
+     <b>
+      07:38
+     </b>
+    </div>
+   </font>
+  </td>
+ </tr>
+ <td bgcolor="#FFFFFF" width="75">
+  <font color="#5F5B5B" face="verdana" size="1">
+   <div align="center">
+    <b>
+     07:54
+    </b>
+   </div>
+  </font>
+ </td>
+ <td bgcolor="#FFFFFF" width="75">
+  <font color="#5F5B5B" face="verdana" size="1">
+   <div align="center">
+    <b>
+     08:10
+    </b>
+   </div>
+  </font>
+ </td>
+ <td bgcolor="#FFFFFF" width="75">
+  <font color="#5F5B5B" face="verdana" size="1">
+   <div align="center">
+    <b>
+     08:26
+    </b>
+   </div>
+  </font>
+ </td>
+ <td bgcolor="#D6F2FF" width="75">
+  <font color="#5F5B5B" face="verdana" size="1">
+   <div align="center">
+    <b>
+     08:42
+     <img alt="Em veculo adaptado para portador de deficincia" border="0" src="imagens/APD.gif"/>
+    </b>
+   </div>
+  </font>
+ </td>
+ <td bgcolor="#FFFFFF" width="75">
+  <font color="#5F5B5B" face="verdana" size="1">
+   <div align="center">
+    <b>
+     08:58
+    </b>
+   </div>
+  </font>
+ </td>
+ <td bgcolor="#FFFFFF" width="75">
+  <font color="#5F5B5B" face="verdana" size="1">
+   <div align="center">
+    <b>
+     09:14
+    </b>
+   </div>
+  </font>
+ </td>
+ <td bgcolor="#FFFFFF" width="75">
+  <font color="#5F5B5B" face="verdana" size="1">
+   <div align="center">
+    <b>
+     09:30
+    </b>
+   </div>
+  </font>
+ </td>
+</table>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    09:46
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#D6F2FF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    10:02
+    <img alt="Em veculo adaptado para portador de deficincia" border="0" src="imagens/APD.gif"/>
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    10:18
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    10:34
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    10:50
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    11:06
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#D6F2FF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    11:22
+    <img alt="Em veculo adaptado para portador de deficincia" border="0" src="imagens/APD.gif"/>
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    11:38
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    11:54
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    12:10
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    12:26
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#D6F2FF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    12:42
+    <img alt="Em veculo adaptado para portador de deficincia" border="0" src="imagens/APD.gif"/>
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    12:58
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    13:14
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    13:30
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    13:46
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#D6F2FF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    14:02
+    <img alt="Em veculo adaptado para portador de deficincia" border="0" src="imagens/APD.gif"/>
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    14:18
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    14:34
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    14:50
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    15:06
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#D6F2FF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    15:22
+    <img alt="Em veculo adaptado para portador de deficincia" border="0" src="imagens/APD.gif"/>
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    15:38
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    15:54
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    16:10
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    16:26
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#D6F2FF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    16:42
+    <img alt="Em veculo adaptado para portador de deficincia" border="0" src="imagens/APD.gif"/>
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    16:58
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    17:14
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    17:30
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    17:46
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#D6F2FF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    18:02
+    <img alt="Em veculo adaptado para portador de deficincia" border="0" src="imagens/APD.gif"/>
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    18:18
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    18:34
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    18:50
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    19:06
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#D6F2FF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    19:22
+    <img alt="Em veculo adaptado para portador de deficincia" border="0" src="imagens/APD.gif"/>
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    19:40
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    20:00
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    20:30
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    21:00
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    21:30
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    22:00
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#D6F2FF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    22:15
+    <img alt="Em veculo adaptado para portador de deficincia" border="0" src="imagens/APD.gif"/>
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    22:30
+   </b>
+  </div>
+ </font>
+</td>
+<td>
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+   </b>
+  </div>
+ </font>
+</td>
+<td>
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+   </b>
+  </div>
+ </font>
+</td>
+<td>
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+   </b>
+  </div>
+ </font>
+</td>
+<td>
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+   </b>
+  </div>
+ </font>
+</td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="30%">
+ <tr align="left">
+  <td>
+   <font face="verdana" size="1">
+    Intervalo entre viagens
+   </font>
+  </td>
+  <td>
+   <font face="verdana" size="1">
+    mnimo: 15
+   </font>
+  </td>
+ </tr>
+ <tr align="left">
+  <td align="center">
+   <font face="verdana" size="1">
+    (em minutos)
+   </font>
+  </td>
+  <td>
+   <font face="verdana" size="1">
+    mdio: 17
+   </font>
+  </td>
+ </tr>
+ <tr align="left">
+  <td>
+  </td>
+  <td>
+   <font face="verdana" size="1">
+    mximo: 30
+   </font>
+  </td>
+ </tr>
+</table>
+<br>
+ <table align="center" border="1" bordercolor="#0B309B" cellpadding="0" cellspacing="0" width="65%">
+  <tr bgcolor="#0F81FD">
+   <th colspan="7">
+    <font color="#FFFFFF" face="verdana" size="1">
+     <div align="center">
+      <b>
+       Sbados
+      </b>
+     </div>
+    </font>
+   </th>
+  </tr>
+  <tr>
+   <td bgcolor="#FFFFFF" width="75">
+    <font color="#5F5B5B" face="verdana" size="1">
+     <div align="center">
+      <b>
+       06:00
+      </b>
+     </div>
+    </font>
+   </td>
+   <td bgcolor="#FFFFFF" width="75">
+    <font color="#5F5B5B" face="verdana" size="1">
+     <div align="center">
+      <b>
+       06:30
+      </b>
+     </div>
+    </font>
+   </td>
+   <td bgcolor="#FFFFFF" width="75">
+    <font color="#5F5B5B" face="verdana" size="1">
+     <div align="center">
+      <b>
+       07:00
+      </b>
+     </div>
+    </font>
+   </td>
+   <td bgcolor="#FFFFFF" width="75">
+    <font color="#5F5B5B" face="verdana" size="1">
+     <div align="center">
+      <b>
+       07:30
+      </b>
+     </div>
+    </font>
+   </td>
+   <td bgcolor="#FFFFFF" width="75">
+    <font color="#5F5B5B" face="verdana" size="1">
+     <div align="center">
+      <b>
+       08:00
+      </b>
+     </div>
+    </font>
+   </td>
+   <td bgcolor="#FFFFFF" width="75">
+    <font color="#5F5B5B" face="verdana" size="1">
+     <div align="center">
+      <b>
+       08:30
+      </b>
+     </div>
+    </font>
+   </td>
+   <td bgcolor="#FFFFFF" width="75">
+    <font color="#5F5B5B" face="verdana" size="1">
+     <div align="center">
+      <b>
+       09:00
+      </b>
+     </div>
+    </font>
+   </td>
+  </tr>
+  <td bgcolor="#FFFFFF" width="75">
+   <font color="#5F5B5B" face="verdana" size="1">
+    <div align="center">
+     <b>
+      09:30
+     </b>
+    </div>
+   </font>
+  </td>
+  <td bgcolor="#FFFFFF" width="75">
+   <font color="#5F5B5B" face="verdana" size="1">
+    <div align="center">
+     <b>
+      10:00
+     </b>
+    </div>
+   </font>
+  </td>
+  <td bgcolor="#FFFFFF" width="75">
+   <font color="#5F5B5B" face="verdana" size="1">
+    <div align="center">
+     <b>
+      10:30
+     </b>
+    </div>
+   </font>
+  </td>
+  <td bgcolor="#FFFFFF" width="75">
+   <font color="#5F5B5B" face="verdana" size="1">
+    <div align="center">
+     <b>
+      11:00
+     </b>
+    </div>
+   </font>
+  </td>
+  <td bgcolor="#FFFFFF" width="75">
+   <font color="#5F5B5B" face="verdana" size="1">
+    <div align="center">
+     <b>
+      11:30
+     </b>
+    </div>
+   </font>
+  </td>
+  <td bgcolor="#FFFFFF" width="75">
+   <font color="#5F5B5B" face="verdana" size="1">
+    <div align="center">
+     <b>
+      12:00
+     </b>
+    </div>
+   </font>
+  </td>
+  <td bgcolor="#FFFFFF" width="75">
+   <font color="#5F5B5B" face="verdana" size="1">
+    <div align="center">
+     <b>
+      12:30
+     </b>
+    </div>
+   </font>
+  </td>
+ </table>
+</br>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    13:00
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    13:30
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    14:00
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    14:30
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    15:00
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    15:30
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    16:00
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    16:30
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    17:00
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    17:30
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    18:00
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    18:30
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    19:00
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    19:30
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    20:00
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    20:30
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    21:00
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    21:30
+   </b>
+  </div>
+ </font>
+</td>
+<td bgcolor="#FFFFFF" width="75">
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+    22:00
+   </b>
+  </div>
+ </font>
+</td>
+<td>
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+   </b>
+  </div>
+ </font>
+</td>
+<td>
+ <font color="#5F5B5B" face="verdana" size="1">
+  <div align="center">
+   <b>
+   </b>
+  </div>
+ </font>
+</td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="30%">
+ <tr align="left">
+  <td>
+   <font face="verdana" size="1">
+    Intervalo entre viagens
+   </font>
+  </td>
+  <td>
+   <font face="verdana" size="1">
+    mnimo: 30
+   </font>
+  </td>
+ </tr>
+ <tr align="left">
+  <td align="center">
+   <font face="verdana" size="1">
+    (em minutos)
+   </font>
+  </td>
+  <td>
+   <font face="verdana" size="1">
+    mdio: 30
+   </font>
+  </td>
+ </tr>
+ <tr align="left">
+  <td>
+  </td>
+  <td>
+   <font face="verdana" size="1">
+    mximo: 30
+   </font>
+  </td>
+ </tr>
+</table>
+<br>
+ <br>
+  <div align="right">
+   <input class="formatoBotao" onclick="javascript:window.close(); return false" type="button" value="Fechar">
+   </input>
+  </div>
+ </br>
+</br>

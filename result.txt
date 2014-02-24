@@ -2,34 +2,34 @@
  <link href="../EPTC_Consultas/css/estilos.css" rel="stylesheet" type="text/css">
   <body>
    <font align="left" color="#5F5B5B" face="verdana" size="2">
-    As informaes abaixo relacionadas correspondem a consulta realizada em 22/2/2014
+    As informações abaixo relacionadas correspondem a consulta realizada em 23/2/2014
    </font>
    <p>
     <title>
-     Tabela Horria
+     Tabela Horária
     </title>
     <font face="verdana" size="2">
      <b>
-      Veja tambm
+      Veja também
       <br>
        Linhas relacionadas:
-       <a horria="" href="Cadastro.asp?Linha=620-5&amp;Tipo=TH&amp;Veiculo=1&amp;Sentido=0&amp;Logradouro=1&amp;Action=Tabela">
+       <a horária="" href="Cadastro.asp?Linha=620-5&amp;Tipo=TH&amp;Veiculo=1&amp;Sentido=0&amp;Logradouro=1&amp;Action=Tabela">
         520 - TRIANGULO/24 DE OUTUBRO
        </a>
        ,
-       <a horria="" href="Cadastro.asp?Linha=620-22&amp;Tipo=TH&amp;Veiculo=1&amp;Sentido=0&amp;Logradouro=1&amp;Action=Tabela">
+       <a horária="" href="Cadastro.asp?Linha=620-22&amp;Tipo=TH&amp;Veiculo=1&amp;Sentido=0&amp;Logradouro=1&amp;Action=Tabela">
         5202 - TRIANGULO/24 DE OUTUBRO/IPA
        </a>
        ,
-       <a horria="" href="Cadastro.asp?Linha=620-0&amp;Tipo=TH&amp;Veiculo=1&amp;Sentido=0&amp;Logradouro=1&amp;Action=Tabela">
+       <a horária="" href="Cadastro.asp?Linha=620-0&amp;Tipo=TH&amp;Veiculo=1&amp;Sentido=0&amp;Logradouro=1&amp;Action=Tabela">
         620 - IGUATEMI / V. JARDIM
        </a>
        ,
-       <a horria="" href="Cadastro.asp?Linha=620-1&amp;Tipo=TH&amp;Veiculo=1&amp;Sentido=0&amp;Logradouro=1&amp;Action=Tabela">
+       <a horária="" href="Cadastro.asp?Linha=620-1&amp;Tipo=TH&amp;Veiculo=1&amp;Sentido=0&amp;Logradouro=1&amp;Action=Tabela">
         6201 - IGUATEMI / ELIZABETH
        </a>
        ,
-       <a horria="" href="Cadastro.asp?Linha=620-97&amp;Tipo=TH&amp;Veiculo=1&amp;Sentido=0&amp;Logradouro=1&amp;Action=Tabela">
+       <a horária="" href="Cadastro.asp?Linha=620-97&amp;Tipo=TH&amp;Veiculo=1&amp;Sentido=0&amp;Logradouro=1&amp;Action=Tabela">
         6204 - IGUATEMI/PARQUE DOS MAIAS
        </a>
       </br>
@@ -46,7 +46,7 @@
   <td>
    <font face="verdana" size="3">
     <b>
-     Tabela horria vigente: OFICIAL
+     Tabela horária vigente: OFICIAL
     </b>
    </font>
   </td>
@@ -70,7 +70,7 @@
 <font face="verdana" size="3">
  <div align="center">
   <b>
-   Consrcio:Conorte
+   Consórcio:Conorte
    <br>
     <br/>
    </br>
@@ -90,7 +90,7 @@
    <font color="#FFFFFF" face="verdana" size="1">
     <div align="center">
      <b>
-      Dias teis
+      Dias Úteis
      </b>
     </div>
    </font>
@@ -111,7 +111,7 @@
     <div align="center">
      <b>
       06:10
-      <img alt="Em veculo adaptado para portador de deficincia" border="0" src="imagens/APD.gif"/>
+      <img alt="Em veículo adaptado para portador de deficiência" border="0" src="imagens/APD.gif"/>
      </b>
     </div>
    </font>
@@ -148,7 +148,7 @@
     <div align="center">
      <b>
       07:22
-      <img alt="Em veculo adaptado para portador de deficincia" border="0" src="imagens/APD.gif"/>
+      <img alt="Em veículo adaptado para portador de deficiência" border="0" src="imagens/APD.gif"/>
      </b>
     </div>
    </font>
@@ -195,7 +195,7 @@
    <div align="center">
     <b>
      08:42
-     <img alt="Em veculo adaptado para portador de deficincia" border="0" src="imagens/APD.gif"/>
+     <img alt="Em veículo adaptado para portador de deficiência" border="0" src="imagens/APD.gif"/>
     </b>
    </div>
   </font>
@@ -242,7 +242,7 @@
   <div align="center">
    <b>
     10:02
-    <img alt="Em veculo adaptado para portador de deficincia" border="0" src="imagens/APD.gif"/>
+    <img alt="Em veículo adaptado para portador de deficiência" border="0" src="imagens/APD.gif"/>
    </b>
   </div>
  </font>
@@ -288,7 +288,7 @@
   <div align="center">
    <b>
     11:22
-    <img alt="Em veculo adaptado para portador de deficincia" border="0" src="imagens/APD.gif"/>
+    <img alt="Em veículo adaptado para portador de deficiência" border="0" src="imagens/APD.gif"/>
    </b>
   </div>
  </font>
@@ -334,7 +334,7 @@
   <div align="center">
    <b>
     12:42
-    <img alt="Em veculo adaptado para portador de deficincia" border="0" src="imagens/APD.gif"/>
+    <img alt="Em veículo adaptado para portador de deficiência" border="0" src="imagens/APD.gif"/>
    </b>
   </div>
  </font>
@@ -380,7 +380,7 @@
   <div align="center">
    <b>
     14:02
-    <img alt="Em veculo adaptado para portador de deficincia" border="0" src="imagens/APD.gif"/>
+    <img alt="Em veículo adaptado para portador de deficiência" border="0" src="imagens/APD.gif"/>
    </b>
   </div>
  </font>
@@ -426,7 +426,7 @@
   <div align="center">
    <b>
     15:22
-    <img alt="Em veculo adaptado para portador de deficincia" border="0" src="imagens/APD.gif"/>
+    <img alt="Em veículo adaptado para portador de deficiência" border="0" src="imagens/APD.gif"/>
    </b>
   </div>
  </font>
@@ -472,7 +472,7 @@
   <div align="center">
    <b>
     16:42
-    <img alt="Em veculo adaptado para portador de deficincia" border="0" src="imagens/APD.gif"/>
+    <img alt="Em veículo adaptado para portador de deficiência" border="0" src="imagens/APD.gif"/>
    </b>
   </div>
  </font>
@@ -518,7 +518,7 @@
   <div align="center">
    <b>
     18:02
-    <img alt="Em veculo adaptado para portador de deficincia" border="0" src="imagens/APD.gif"/>
+    <img alt="Em veículo adaptado para portador de deficiência" border="0" src="imagens/APD.gif"/>
    </b>
   </div>
  </font>
@@ -564,7 +564,7 @@
   <div align="center">
    <b>
     19:22
-    <img alt="Em veculo adaptado para portador de deficincia" border="0" src="imagens/APD.gif"/>
+    <img alt="Em veículo adaptado para portador de deficiência" border="0" src="imagens/APD.gif"/>
    </b>
   </div>
  </font>
@@ -628,7 +628,7 @@
   <div align="center">
    <b>
     22:15
-    <img alt="Em veculo adaptado para portador de deficincia" border="0" src="imagens/APD.gif"/>
+    <img alt="Em veículo adaptado para portador de deficiência" border="0" src="imagens/APD.gif"/>
    </b>
   </div>
  </font>
@@ -683,7 +683,7 @@
   </td>
   <td>
    <font face="verdana" size="1">
-    mnimo: 15
+    mínimo: 15
    </font>
   </td>
  </tr>
@@ -695,7 +695,7 @@
   </td>
   <td>
    <font face="verdana" size="1">
-    mdio: 17
+    médio: 17
    </font>
   </td>
  </tr>
@@ -704,7 +704,7 @@
   </td>
   <td>
    <font face="verdana" size="1">
-    mximo: 30
+    máximo: 30
    </font>
   </td>
  </tr>
@@ -716,7 +716,7 @@
     <font color="#FFFFFF" face="verdana" size="1">
      <div align="center">
       <b>
-       Sbados
+       Sábados
       </b>
      </div>
     </font>
@@ -1048,7 +1048,7 @@
   </td>
   <td>
    <font face="verdana" size="1">
-    mnimo: 30
+    mínimo: 30
    </font>
   </td>
  </tr>
@@ -1060,7 +1060,7 @@
   </td>
   <td>
    <font face="verdana" size="1">
-    mdio: 30
+    médio: 30
    </font>
   </td>
  </tr>
@@ -1069,7 +1069,7 @@
   </td>
   <td>
    <font face="verdana" size="1">
-    mximo: 30
+    máximo: 30
    </font>
   </td>
  </tr>

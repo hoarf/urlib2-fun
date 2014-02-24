@@ -1,20 +1,25 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
 import urllib2
 import urllib
 from bs4 import BeautifulSoup
 import re
 
 """ 
+ Changelog:
+
+  - Corrected the encoding problems
+  - Created the debug option that uses the downloaded file instead of repeatedly hitting the website for no reason
+
   02-2014
 
   This script downloads and parse shit from EPTC bus lines 
-  Although they are partners with google it might be better idea to use their api 
+  Although now they are partners with google so it might be a better idea to use their api instead 
 
 """
 
-with open('linhas.txt','r') as arquivo:
-  for l in arquivo:
-    chomp
-    print l
+debug = True
 
 # data we need to pass to url form
 query_args = { 
@@ -25,36 +30,38 @@ query_args = {
           'Logradouro':'1'
 }
 
-linhas = []
-
-linhas["267-7"] 
-
-linhas["267-7"]["consorcio"] = "consorcio"
-linhas["267-7"]["consorcio"] = "consorcio"
- 
-
 # our target url
 url = 'http://www.eptc.com.br/EPTC_Itinerarios/Cadastro.asp'
 
 # we need to encode this hash into a more accepted format by the webserver
 encoded_args = urllib.urlencode(query_args)
 
-# gets the page file from url 
-page_file = urllib2.urlopen(url, encoded_args)
+page_file = None
+
+if debug:
+  # gets the page file from url 
+  print "reading from fs..."
+  page_file = open('result.txt','r')
+else:
+  print "reading from web..."
+  page_file = urllib2.urlopen(url, encoded_args)
 
 # reads the file into a string representation 
 content = page_file.read()
 
-# devs of yore didn't know about encoding it seems...
-sane_content = unicode(content, errors='ignore')
+# clean up mess
+if debug:
+  print "closing file.."
+  page_file.close()
 
 # this will help us dig through html more easily
-soup = BeautifulSoup(sane_content)
+soup = BeautifulSoup(content, from_encoding='windows_1252')
 
-# lets write this down to see how we doing so far
-with open('result.txt','w') as f:
-  # lets do it as fabulous as we can tho..
-  f.write(soup.prettify()) 
+if not debug:
+  # lets write this down to see how we doing so far
+  with open('result.txt','w') as f:
+    # lets do it as fabulous as we can tho..
+    f.write(soup.prettify('windows_1252')) 
 
 # alright _now_ the fun begins
 
@@ -76,15 +83,15 @@ reg_tabelas = re.compile(r"<table.*?>.*?</table>", re.S)
 reg_horarios = re.compile(r"\d{2}:\d{2}")
 
 # aplica a expressao regular para o conteudo do site
-match_tabelas = reg_tabelas.findall(sane_content)
+match_tabelas = reg_tabelas.findall(content)
 
 # para cada tabela cria um array dos horarios
 def pega_horarios_tabela(tabela):
   return reg_horarios.findall(tabela)
 
-print "horarios tabela dias :\n" + str(pega_horarios_tabela(match_tabelas[1])) +"\n"
+print "Dias Úteis:\n" + str(pega_horarios_tabela(match_tabelas[1])) +"\n"
 
-print "horarios tabela sabado:\n" + str(pega_horarios_tabela(match_tabelas[1])) + "\n"
+print "Sábados:\n" + str(pega_horarios_tabela(match_tabelas[2])) + "\n"
   
 line_name       = get_line_name(soup)
 consortium_name = get_consortium_name(soup) 
